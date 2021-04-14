@@ -1,10 +1,12 @@
 <template>
-  <div
-    class="logo relative inline-block uppercase text-white font-extrabold leading-none inline-block"
-  >
-    <strong class="block">frnt/nd</strong>
-    <small class="block leading-normal">developer</small>
+  <a href="/">
+    <div
+      class="logo relative inline-block uppercase text-white font-extrabold leading-none inline-block"
+    >
+      <strong class="block">DevOps</strong>
+      <small class="block leading-normal">Engineer</small>
   </div>
+  </a>
 </template>
 
 <style lang="scss" scoped>

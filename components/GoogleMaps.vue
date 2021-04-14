@@ -133,7 +133,8 @@ export default {
       const script = document.createElement('script')
       script.type = 'text/javascript'
       script.src =
-        'https://maps.googleapis.com/maps/api/js?key=AIzaSyAJCZDj3_UBJsd7v3GQJsprfjQjtmdY1Uw&callback=initMap'
+        //'https://maps.googleapis.com/maps/api/js?key=AIzaSyAJCZDj3_UBJsd7v3GQJsprfjQjtmdY1Uw&callback=initMap'
+        'https://maps.google.com/maps?width=600&height=400&hl=en&q=Bandung&t=&z=11&ie=UTF8&iwloc=B&output=embed'
       script.async = true
       script.defer = true
 

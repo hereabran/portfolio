@@ -7,13 +7,13 @@
       <dl class="mb-4">
         <dt class="font-bold">Email</dt>
         <dd>
-          <a href="mailto:emils.gulbis@gmail.com">emils.gulbis@gmail.com</a>
+          <a href="mailto:abran@gits.id">abran@gits.id</a>
         </dd>
       </dl>
 
       <dl class="mb-4">
-        <dt class="font-bold">Phone</dt>
-        <dd><a href="tel:+37120303056">+371 20 30 30 56</a></dd>
+        <dt class="font-bold">WhatsApp</dt>
+        <dd><a href="wa.me/6285155209299">+62 85155209299</a></dd>
       </dl>
 
       <dl>
@@ -22,7 +22,7 @@
           <ul class="flex">
             <li v-if="facebook" class="mr-4">
               <a
-                href="https://www.facebook.com/emiils"
+                href="https://www.facebook.com/hereabran/"
                 target="_blank"
                 rel="noopener"
                 aria-label="Find me on Facebook"
@@ -33,7 +33,7 @@
 
             <li v-if="linkedin" class="mr-4">
               <a
-                href="https://www.linkedin.com/in/emilsgulbis/"
+                href="https://www.linkedin.com/in/hereabran/"
                 target="_blank"
                 rel="noopener"
                 aria-label="Get to know be better via Linkedin"
@@ -44,7 +44,7 @@
 
             <li v-if="twitter" class="mr-4">
               <a
-                :href="twitter"
+                href="https://twitter.com/hereabran"
                 target="_blank"
                 rel="noopener"
                 aria-label="Follow me on Twitter"
@@ -55,7 +55,7 @@
 
             <li v-if="github" class="mr-4">
               <a
-                :href="github"
+                href="https://github.com/hereabran"
                 target="_blank"
                 rel="noopener"
                 aria-label="Discover my projects on Github"

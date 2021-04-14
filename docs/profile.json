@@ -1,14 +1,14 @@
 {
-  "firstName": "Emils",
-  "lastName": "Gulbis",
-  "phone": "+37120303056",
-  "email": "emils.gulbis@gmail.com",
-  "location": {
-    "address": "Kurmajas prospekts 7",
-    "city": "Liepaja",
-    "country": "Latvia"
-  },
-  "position": "Front-end developer",
-  "birthday": "1993/04/15",
-  "aboutMe": "I love to develop \n beautiful UI's"
+    "firstName": "Muhammad",
+    "lastName": "Abdurrahman",
+    "phone": "+6285155209299",
+    "email": "abran@gits.id",
+    "location": {
+        "address": "Jl. Moch Toha",
+        "city": "Bandung",
+        "country": "Indonesia"
+    },
+    "position": "DevOps Engineer",
+    "birthday": "1998/06/08",
+    "aboutMe": "Rationality comes out within islamic belief \n Forever learner"
 }
